@@ -6,10 +6,10 @@ subtitle: Senior Machine Learning Engineer, Hasty GmbH.
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: as.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>🎓 MSc. Informatics, TU Munich.</p>
+    <p>🎓 MSc. Informatics, TUM.</p>
     <p>🏠 Munich/Berlin, Germany.</p>
 
 news: true # includes a list of news items
