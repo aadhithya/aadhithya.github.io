@@ -23,4 +23,4 @@ I graduated from TUM in 2020, speacialising in Deep Learning for medical imaging
 
 While my primary resicdence is in Munich 🥨, you can also find me in Berlin quite often. In my spare time, I like working on projects that I find fun and interesting(I've not been able to find much time for this lately... :/).
 
-I'm always eager to learn and collaborate. Feel free to connect with me at `hello@asankar.de` or at one of my social handles.
+I'm always eager to learn and collaborate. Feel free to connect with me at `aadhithya.s@outlook.com` or at one of my social handles.

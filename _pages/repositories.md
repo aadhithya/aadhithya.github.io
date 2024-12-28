@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Here ycan find some of my opensource projects. For a full list of my projects, visit [github](https://github.com/aadhithya).
+description: Here are some of my open-source projects. For a full list of my projects, visit my github profile.
 nav: true
 nav_order: 4
 ---
