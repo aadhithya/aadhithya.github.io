@@ -19,7 +19,7 @@
       }
     ]
   },
-  "experience": [
+  "work": [
     {
       "name": "Hasty GmbH | Berlin/Munich, Germany.",
       "position": "Senior Machine Learning Engineer",
@@ -35,15 +35,6 @@
       "startDate": "2021-11-01",
       "endDate": "2023-02-01",
       "summary": "developed and trained AI models for Segmentation, Domain Transfer and Object Detection, created ML training pipelines using AWS SageMaker and developed core python packages to handle Image annotations and to interact with external Software apis."
-    },
-    {
-      "name": "TEchnical University of Munich. | Munich, Germany.",
-      "position": "Master Thesis Student",
-      "url": "",
-      "startDate": "2019-10-01",
-      "endDate": "2020-12-01",
-      "summary": "Worked on learning disentangled feature representations in the latent space for Brain MRI scans using Flow-based generative models.",
-      "highlights": ["https://arxiv.org/abs/2103.10868"]
     },
     {
       "name": "deepc GmbH. | Munich, Germany.",

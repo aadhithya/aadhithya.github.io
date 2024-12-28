@@ -6,7 +6,7 @@ subtitle: Senior Machine Learning Engineer, Hasty GmbH.
 
 profile:
   align: right
-  image: as.jpg
+  image: adi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🎓 MSc. Informatics, TUM.</p>
