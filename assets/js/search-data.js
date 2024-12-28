@@ -9,23 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-repositories",
+  },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Here ycan find some of my opensource projects. For a full list of my projects, visit [github](https://github.com/aadhithya).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Here you can find a brief version of my CV. Please download the pdf for a more informative version.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -360,16 +353,20 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-graduated-from-tum",
+          title: 'Graduated from TUM! 🎓',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-participated-in-the-dtu-mlops-summer-school-and-won-the-mlops-hackathon",
+          title: 'I participated in the DTU MLOps Summer School and won the MLOps hackathon!...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-ve-joined-ultivue-emea-srl-as-an-image-analysis-scientist",
+          title: 'I’ve joined Ultivue EMEA srl as an Image Analysis Scientist.',
+          description: "",
+          section: "News",},{id: "news-i-released-rajini-an-open-source-esoteric-programming-language-find-the-writeup-here",
+          title: 'I released rajini++, an open-source esoteric programming language! Find the writeup here.',
+          description: "",
+          section: "News",},{id: "news-i-ve-joined-hasty-gmbh-as-a-senior-machine-learning-engineer",
+          title: 'I’ve joined Hasty GmbH as a Senior Machine Learning Engineer!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
