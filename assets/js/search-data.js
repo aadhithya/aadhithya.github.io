@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-repositories",
           title: "repositories",
-          description: "Here ycan find some of my opensource projects. For a full list of my projects, visit [github](https://github.com/aadhithya).",
+          description: "Here are some of my open-source projects. For a full list of my projects, visit my github profile.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -38,7 +38,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-joined-hasty-gmbh-as-a-senior-machine-learning-engineer",
           title: 'I’ve joined Hasty GmbH as a Senior Machine Learning Engineer!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2_',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2_/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
