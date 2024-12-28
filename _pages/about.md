@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Machine Learning Engineer, Hasty GmbH.
+subtitle: Senior Machine Learning Engineer | Software Engineer.
 
 profile:
   align: right
   image: adi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>👨🏾‍💻 Hasty GmbH.</p>
     <p>🎓 MSc. Informatics, TUM.</p>
     <p>🏠 Munich/Berlin, Germany.</p>
 
