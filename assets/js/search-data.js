@@ -38,12 +38,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-joined-hasty-gmbh-as-a-senior-machine-learning-engineer",
           title: 'I’ve joined Hasty GmbH as a Senior Machine Learning Engineer!',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2_',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2_/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
