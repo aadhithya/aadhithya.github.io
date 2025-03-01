@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I released [rajini++](https://github.com/aadhithya/rajiniPP), an open-source esoteric programming language! Find the writeup [here](https://towardsdatascience.com/rajini-the-superstar-programming-language-db5187f2cc71).
+Released [rajini++](https://github.com/aadhithya/rajiniPP), an open-source esoteric programming language. Find the writeup [here](https://towardsdatascience.com/rajini-the-superstar-programming-language-db5187f2cc71).
+
 

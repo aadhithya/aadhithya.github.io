@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I've joined Ultivue EMEA srl as an Image Analysis Scientist.
+Joined Ultivue EMEA srl as an Image Analysis Scientist.
 

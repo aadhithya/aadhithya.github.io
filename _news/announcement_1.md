@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've joined Hasty GmbH as a Senior Machine Learning Engineer!
+Joined Hasty GmbH as a Senior Machine Learning Engineer.

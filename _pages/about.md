@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Machine Learning Engineer | Software Engineer.
+subtitle: Staff Machine Learning Engineer | Software Engineer.
 
 profile:
   align: right
