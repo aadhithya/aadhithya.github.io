@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Staff Machine Learning Engineer | Software Engineer.
+subtitle: Machine Learning Engineer | Software Engineer.
 
 profile:
   align: right
   image: adi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>👨🏾‍💻 Hasty GmbH.</p>
+    <p>👨🏾‍💻 Staff ML Engineer, Hasty GmbH.</p>
     <p>🎓 MSc. Informatics, TUM.</p>
     <p>🏠 Munich/Berlin, Germany.</p>
 
